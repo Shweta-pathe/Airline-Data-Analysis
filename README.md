@@ -9,5 +9,4 @@ data, we seek to identify trends, make data driven recommendations, and gain a d
 
 - Excel -Data Cleaning,Dashboard
 - SQL Server -Data Analysis
-- Power BI -Data Cleaning,Dashbaoard
 - Tableau -Dashboard
